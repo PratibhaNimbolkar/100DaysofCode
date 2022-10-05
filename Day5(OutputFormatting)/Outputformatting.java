@@ -1,5 +1,5 @@
 /*Problem : Every line of input will contain a String followed by an integer.
-Each String will have a maximum of 10 alphabetic characters, and each integer will be in the inclusive range from 0 to 999 .
+Each String will have a maximum of 10 alphabetic characters, and each integer will be in the inclusive range from 0 to 999 .*/
 
 
 
