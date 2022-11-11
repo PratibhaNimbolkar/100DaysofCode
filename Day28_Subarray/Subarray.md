@@ -22,6 +22,7 @@ The second line contains  space-separated integers describing each respective el
 
 Constraints:
 1<=n<=100
+
 -10^4<=ai<=10^4
 
 
@@ -38,27 +39,34 @@ Print the number of subarrays of A having negative sums.
 
 
 Testcase1
+
 Input
 5
 1 -2 4 -5 1
+
 Output
 9
 
 Testcase2
+
 Input
 1
 -100
+
 Output
 1
 
 Testcase3
+
 Input
 1
 100
+
 Output
 0
 
 Testcase4
+
 Input
 100
 463 589 -321 164 -613 246 -869 -889 -712 -251 969 -603 49 185 439 479 255 
@@ -67,6 +75,7 @@ Input
 -753 314 257 856 832 -695 -387 416 354 117 273 -275 811 -114 -962 -90 868 
 883 -330 467 233 852 232 -44 831 -672 -883 -774 -830 297 -897 -860 143 594
 186 -988 928 391 -812 99 302 -803 -422 583 817 748 -619 183
+
 Output
 953
 
